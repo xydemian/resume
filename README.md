@@ -2,7 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/tarrex/online-resume/blob/master/LICENSE"><img src="https://img.shields.io/github/license/tarrex/online-resume?style=flat-square" alt="GitHub License"></a>
-  <a href="https://github.com/tarrex/online-resume/forks"><img src="https://img.shields.io/github/forks/tarrex/online-resume?style=flat-square" alt="GitHub forks"></a>
+</p>
+
+  <!-- <a href="https://github.com/tarrex/online-resume/forks"><img src="https://img.shields.io/github/forks/tarrex/online-resume?style=flat-square" alt="GitHub forks"></a>
   <a href="https://github.com/tarrex/online-resume/stargazers"><img src="https://img.shields.io/github/stars/tarrex/online-resume?style=flat-square" alt="GitHub Repo stars"></a>
   <a href="https://tarrex.github.io/online-resume"><img src="https://img.shields.io/website?down_color=red&down_message=down&style=flat-square&up_color=green&up_message=up&url=https%3A%2F%2Ftarrex.github.io%2Fonline-resume" alt="Demo Website"></a>
   <a href="https://jekyll-themes.com/tarrex/online-resume">
@@ -11,9 +13,7 @@
       height="20"
       alt="Jekyll Themes Shield"
     />
-  </a>
-</p>
-
+  </a> -->
 <h4 align="center">A minimalist Jekyll theme for your resume.</h4>
 
 ---
@@ -52,6 +52,7 @@ Features:
 - Open `https://YOUR_GITHUB_USERNAME.github.io/online-resume` in your browser.
 - Now you can see the resume page.
 - Edit the `_data/data.yml` file directly to update your resume.
+- For view the effect locally, `bundle exec jekyll serve`
 
 #### Customization
 
@@ -82,7 +83,5 @@ You can read and follow [Cloudflare Pages][Cloudflare Pages], [Vercel][Vercel] d
 - Hugo Version: [hugo-theme-online-resume][Other Version]
 
 
-[Demo]: https://tarrex.github.io/online-resume
-[Cloudflare Pages]: https://developers.cloudflare.com/pages/framework-guides/deploy-a-jekyll-site/
-[Vercel]: https://vercel.com/guides/deploying-jekyll-with-vercel
-[Other Version]: https://github.com/tarrex/hugo-theme-online-resume
+[Demo]: https://xy-xianyi.github.io/online-resume/
+[Demo]: https://xy-xianyi.github.io/online-resume/cn
